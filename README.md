@@ -13,8 +13,6 @@ I'm passionate about learning new things and always up for great opportunities!
 
 ### 💻 Tech Stack
 
-### 💻 Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;" />
