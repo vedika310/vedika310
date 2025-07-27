@@ -9,6 +9,8 @@ I'm passionate about learning new things and always up for great opportunities!
 - 📫 How to reach me: vedikarelwani079@gmail.com
 - ⚡ Fun fact: I love combining creativity with code.
 
+---
+
 ### 💻 Tech Stack
 
 <p align="left">
