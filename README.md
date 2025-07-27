@@ -9,8 +9,6 @@ I'm passionate about learning new things and always up for great opportunities!
 - 📫 How to reach me: vedikarelwani079@gmail.com
 - ⚡ Fun fact: I love combining creativity with code.
 
----
-
 ### 💻 Tech Stack
 
 <p align="left">
@@ -24,8 +22,3 @@ I'm passionate about learning new things and always up for great opportunities!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
 
----
-
-### 📎 Links
-
-- [LinkedIn](https://www.linkedin.com/in/vedika-relwani/)
