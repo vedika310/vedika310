@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vedika Relwani, a Computer Science and Design student at YCCE Nagpur.  
+I'm **Vedika Relwani**, a Computer Science and Design student at YCCE Nagpur.  
 I'm passionate about learning new things and always up for great opportunities!
 
 - 🔭 I’m currently working on front-end projects and visualizations.
